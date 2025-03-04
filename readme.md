@@ -30,7 +30,7 @@ I am a **data science enthusiast** with a strong foundation in **machine learnin
 ---
 
 ## **📂 Projects**  
-🔹 **[Project Name]** – *(Brief description of what it does & tech used)*  
+🔹 ** Applicant Tracking System using Gen-AI ** – *The AI-Powered Applicant Tracking System (ATS) leverages Generative AI and Streamlit to streamline resume screening and enhance recruitment efficiency. *  
 🔹 **[Project Name]** – *(Brief description of what it does & tech used)*  
 🔹 **[Project Name]** – *(Brief description of what it does & tech used)*  
 
