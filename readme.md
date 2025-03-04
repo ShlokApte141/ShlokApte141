@@ -31,8 +31,27 @@ I am a **data science enthusiast** with a strong foundation in **machine learnin
 
 ## **📂 Projects**  
 🔹  Applicant Tracking System using Gen-AI – The AI-Powered Applicant Tracking System (ATS) leverages Generative AI and Streamlit to streamline resume screening and enhance recruitment efficiency. 
-🔹 **[Project Name]** – *(Brief description of what it does & tech used)*  
-🔹 **[Project Name]** – *(Brief description of what it does & tech used)*  
+
+🛠 Tech Used
+Framework: Streamlit (for interactive UI)
+
+Backend: Flask (Python)
+
+Text Processing: NLP for resume parsing & keyword extraction
+
+
+🔹 Credit Card Validator – This program is a Credit Card Validator written in C++. It verifies whether a given credit card number is valid or invalid using the Luhn Algorithm, a standard checksum formula used in credit card verification.
+
+🛠 Tech Used
+Programming Language: C++
+
+Algorithm: Luhn Algorithm (checksum validation)
+
+Input Handling: String validation for numeric input
+
+Control Flow: Loops & conditionals for processing credit card numbers
+
+🔹 **[Project Name]** – *(Brief description of what it does & tech used)z*  
 
 🔗 **Check out more projects on my [GitHub Repositories](https://github.com/ShlokApte141?tab=repositories).**  
 
