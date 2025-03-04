@@ -23,9 +23,9 @@ I am a **data science enthusiast** with a strong foundation in **machine learnin
 ---
 
 ## **📜 Certifications**  
-✅ **[Certification Name]** – *(Issuing Organization)*  
-✅ **[Certification Name]** – *(Issuing Organization)*  
-✅ **[Certification Name]** – *(Issuing Organization)*  
+✅ **Data Analytics Job Simulation** – *Deloitte*  
+✅ **Data Science Job Simulation** – *British Airways*  
+✅ **Data Science Bootcamp** – *GeeksForGeeks*  
 
 ---
 
