@@ -50,8 +50,8 @@
 
 | Certificate | Organization | Credential |
 |-------------|--------------|------------|
-| 🏆 Python for Data Science | IBM | [View Certificate](file:///C:/Users/SHLOK/OneDrive/Desktop/IBM%20ACHIEVEMENTS/IBM%20PY0101EN%20Certificate%20_%20IBM.pdf) |
-| 🏆 Statistics | IBM | [View Certificate](file:///C:/Users/SHLOK/OneDrive/Desktop/IBM%20ACHIEVEMENTS/IBM%20ST0101EN%20Certificate%20_%20IBM.pdf) |
+| 🏆 Python for Data Science | IBM | [View Certificate](https://drive.google.com/file/d/1sHNJxOSZJHr2XR66yWvL-F2-tizTiMF6/view?usp=drive_link) |
+| 🏆 Statistics | IBM | [View Certificate](https://drive.google.com/file/d/1cOZrI6vTccJWeAiLTjqmgsvwh__lFszI/view?usp=drive_link) |
 
 ---
 
