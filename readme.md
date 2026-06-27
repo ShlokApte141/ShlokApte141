@@ -1,14 +1,4 @@
-```markdown
-<!-- 🎯 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=650&lines=Hello,+I'm+Shlok+Apte!;Data+Science+%7C+Artificial+Intelligence;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Tableau+%7C+Django">
-</p>
-
-<h1 align="center">Hi 👋, I'm Shlok Apte</h1>
-
-<p align="center">
-Aspiring <b>Data Scientist</b> | AI & Machine Learning Enthusiast | Python Developer
-</p>
+<!-- 🎯 Typing Animation --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Shlok+Apte!;Data+Science+%7C+AI+%7C+Machine+Learning;Python+%7C+SQL+%7C+Tableau+%7C+Django"> </p>
 
 ---
 
